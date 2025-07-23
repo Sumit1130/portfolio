@@ -1,0 +1,13 @@
+div{
+    text-align: center;
+    
+    background-color: #ffffff;
+    font-size: 15px
+}
+
+div h1{
+    font-size: 30px;
+    color: blue;
+    text-transform: capitalize;
+}
+
